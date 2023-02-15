@@ -8,7 +8,7 @@ I do so by creating interactive, collaborative artworks that involve both human 
 
 ### Stage 0
 
-- [x] Build simple robot prototypes to prove the idea of drawing robots (no real AI) , show at some events (done between 2015 and 2022).
+- [x] Build simple robot prototypes to prove the idea of drawing robots (no real AI) , show at some events (done around 2015).
 
 ### Stage 1 (current WIP)
 
