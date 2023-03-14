@@ -14,7 +14,7 @@ I do so by creating interactive, collaborative artworks that involve both human 
 
 Controll only at live events
 
-- [ ] Build robots that are actually controlled by AI
+- [x] Build robots that are actually controlled by AI
 - [ ] Add function that humans can request controll via mobile phone or game controller
 - [ ] Present at some events to create interactive art and get feedback
 - [ ] Live Streaming of complete canvas area
